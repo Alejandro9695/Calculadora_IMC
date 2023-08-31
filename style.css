@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: medium;
+}
+#principalTitleProject{
+    text-align: center;
+    margin: 45px 0;
+    color: rgb(133, 3, 177);
+}
+#containerPrincipalForm{
+    display: flex;
+    margin: 30px 50px;
+}
+#containerDescription{
+    text-align: justify;
+    padding: 0 80px 0 10px;
+}
+#containerDescription ul{
+    margin: 0 0px 0 30px
+}
+#containerResult{
+    margin-top: 30px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 12px;
+    -webkit-box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.75);
+}
+#containerResult h4{
+    color: rgb(98, 0, 131);
+}
+#containerCalculator{
+    -webkit-box-shadow: 0px 0px 13px 0px rgba(69,0,92,1);
+    -moz-box-shadow: 0px 0px 13px 0px rgba(69,0,92,1);
+    box-shadow: 0px 0px 13px 0px rgba(69,0,92,1);
+    border-radius: 12px;
+    padding: 20px;
+}
+.containerImageIMC{
+    display: flex;
+    justify-content: center;
+    margin: 30px 0;
+}
+.imageWeightIMC{
+    
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    -webkit-box-shadow: 0px 0px 13px 0px rgba(69,0,92,1);
+    -moz-box-shadow: 0px 0px 13px 0px rgba(69,0,92,1);
+    box-shadow: 0px 0px 13px 0px rgba(69,0,92,1);
+}
+
